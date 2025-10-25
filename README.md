@@ -2,7 +2,8 @@
 
 
 <img width="1178" height="653" alt="Fraud2" src="https://github.com/user-attachments/assets/2014f465-750c-49b6-8b37-5fabaaa87dc2" />
-![User details](https://github.com/user-attachments/assets/8a67ed48-628c-4890-93a8-9df594c5dbd6)
+
+<img width="1178" height="653" alt="Fraud2" src="https://github.com/user-attachments/assets/efc5962b-ecfc-46d5-b907-d633edcf1e4e" />
 
 
 This dashboard provides a comprehensive overview of fraudulent activity across financial transactions. It combines real-time metrics, behavioral patterns, and user-level drilldowns to help analysts detect, monitor, and respond to fraud with precision.
